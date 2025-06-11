@@ -1,2 +1,4 @@
 # assignment4
-assignment
+Dnd magic items
+rarity
+
