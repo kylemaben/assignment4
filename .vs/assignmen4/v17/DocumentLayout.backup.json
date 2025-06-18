@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\assignment4\\assignmen4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F37A46AD-F069-4F07-8358-7F1782D450D0}|assignmen4\\assignmen4.csproj|h:\\assignment4\\assignmen4\\assignmen4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37A46AD-F069-4F07-8358-7F1782D450D0}|assignmen4\\assignmen4.csproj|solutionrelative:assignmen4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37A46AD-F069-4F07-8358-7F1782D450D0}|assignmen4\\assignmen4.csproj|h:\\assignment4\\assignmen4\\assignmen4\\dnditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37A46AD-F069-4F07-8358-7F1782D450D0}|assignmen4\\assignmen4.csproj|solutionrelative:assignmen4\\dnditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37A46AD-F069-4F07-8358-7F1782D450D0}|assignmen4\\assignmen4.csproj|h:\\assignment4\\assignmen4\\assignmen4\\rarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37A46AD-F069-4F07-8358-7F1782D450D0}|assignmen4\\assignmen4.csproj|solutionrelative:assignmen4\\rarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DnDItem.cs",
+              "DocumentMoniker": "H:\\assignment4\\assignmen4\\assignmen4\\DnDItem.cs",
+              "RelativeDocumentMoniker": "assignmen4\\DnDItem.cs",
+              "ToolTip": "H:\\assignment4\\assignmen4\\assignmen4\\DnDItem.cs",
+              "RelativeToolTip": "assignmen4\\DnDItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:06:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rarity.cs",
+              "DocumentMoniker": "H:\\assignment4\\assignmen4\\assignmen4\\Rarity.cs",
+              "RelativeDocumentMoniker": "assignmen4\\Rarity.cs",
+              "ToolTip": "H:\\assignment4\\assignmen4\\assignmen4\\Rarity.cs",
+              "RelativeToolTip": "assignmen4\\Rarity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:04:10.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\assignment4\\assignmen4\\assignmen4\\Program.cs",
+              "RelativeDocumentMoniker": "assignmen4\\Program.cs",
+              "ToolTip": "H:\\assignment4\\assignmen4\\assignmen4\\Program.cs",
+              "RelativeToolTip": "assignmen4\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:13:04.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
